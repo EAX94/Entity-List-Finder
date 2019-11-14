@@ -5,13 +5,22 @@ Tool that will help you to find the entity list.
 [.NET Framework 4.6.1 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net461) or higher.
 
 ## Support
-x64 and x86 games.
+* x64
+* x86
 
-Tested working on
+Tested working on:
 
-Assault Cube, Sauerbraten x64, CSGO, Black Mesa, DOOM 2016, Bioshock Infinite
+* Assault Cube
+* Sauerbraten x64
+* CSGO
+* Black Mesa
+* DOOM 2016
+* Bioshock Infinite
 
-These include Source Engine, IdTech Engine & Unreal Engine
+These include:
+* Source Engine
+* IdTech Engine
+* Unreal Engine
 
 ## How to use
 **1.** Download the tool from [here](https://guidedhacking.com/resources/gh-entity-list-finder.36/).
