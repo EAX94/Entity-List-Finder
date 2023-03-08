@@ -23,7 +23,7 @@ These include:
 * Unreal Engine
 
 ## How to use
-**1.** Download the tool from [here](https://guidedhacking.com/resources/gh-entity-list-finder.36/).
+**1.** Download the tool from .
 
 **2.** Open the tool and select your game process.
 
